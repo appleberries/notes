@@ -1,0 +1,30 @@
+git init - to initialize a folder as a git repository
+
+git config --global user.name "Gilbert Ombay"
+git config --global user.email "ombaygilbert@gmail.com"
+
+git add <fileName> - add the file to staging area (not yet commited)
+
+git rm --cached <fileName> - remove the file to staging area
+
+git status - check what is in staging area
+
+git commit -m "comment" - to commit with comment
+
+touch .gitignore
+/dir - to ignore directory
+
+git branch <branchName> - to create a branch
+git checkout <branchName> - to switch to other branch
+
+git merge <branchName> - to merge
+
+git remote add origin <url> - to add remote repository
+
+git remote - view listed remote repository
+
+git push -u origin master - to push as a master or kung na merge na
+
+git clone <url> - to clone repository in github as long as it is public
+
+Summersky!38

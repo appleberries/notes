@@ -1,0 +1,37 @@
+index - listing of all (read???)
+
+create - create form (create???) //form
+store - fetch the infos from create and store in db (create???)
+
+edit - edit form (update???) //form
+update - fetch the infos from edit and update (update???)
+
+show - show single post (read???)
+destroy - delete (delete???)
+
+php artisan make:controller PostController --resource
+php artisan make:model Post-m
+
+composer require laravel/ui
+php artisan ui vue --auth
+npm install
+npm run dev
+//php artisan ui:auth
+
+php artisan make:migration add_user_id_to_posts
+php artisan migrate rollback
+php artisan storage:link
+
+php artisan make:model Bert
+php artisan make:controller BertsController
+
+npm install bootstrap / npm install
+Within app.scss:
+@import "node_modules/bootstrap/scss/bootstrap";
+npm run dev 
+<link rel="stylesheet" href="/css/app.css">
+
+image intervention - google
+composer require intervention/image
+
+Summersky38!
